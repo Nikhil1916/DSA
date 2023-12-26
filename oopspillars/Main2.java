@@ -60,7 +60,7 @@ class EmployeeProfile extends Person {
     this.salary = money;
   }
 
-  public getEmployeeId() {
+  public int getEmployeeId() {
     return this.employeeId;
   }
 

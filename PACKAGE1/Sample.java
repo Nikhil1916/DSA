@@ -4,6 +4,7 @@ public class Sample {
   private int a;
   int b;
   protected int z = 10;
+  public int pub;
 
   public Sample(int a,int b) {
     this.a = a;

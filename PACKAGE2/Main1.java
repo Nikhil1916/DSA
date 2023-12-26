@@ -11,5 +11,6 @@ public class Main1 extends Sample {
     // to use protected we need to create instance of the class which is taking from parent as main1 class will have the inherited properties
     Main1 m = new Main1();
     System.out.println(m.z);
+    // System.out.println(s.)
   }
 }
